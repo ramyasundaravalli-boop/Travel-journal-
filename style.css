@@ -1,1 +1,4 @@
 body{font-family:Arial;padding:20px;}
+#map{height:300px;margin-top:20px;}
+.form input,textarea{width:100%;margin:5px 0;padding:8px;}
+button{margin:5px;padding:10px;}
